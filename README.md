@@ -27,6 +27,8 @@ This is the place where table driven scanner is implemented
 # Direct coded Scanner 
 this file has the code for direct coded scanner implementation whch differes for dfa to dfa 
 
+
+![alt text](https://github.com/hridhi/Compiler-design-class-/blob/main/image/directcoded.PNG)
 # Maximal munch algorithm 
 this file has the code for the maximal munch algorithm. 
 
