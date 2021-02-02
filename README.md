@@ -3,9 +3,10 @@
 # Compiler 
 Compilers is a compiler program that translates a program in one language into another language program. It can also be said as a large software system with many internal components and algorithms and complex interactions between them. In other words translating the computer program to make it ready for execution.
  It is basically the mix of front end (source code) and back end (maps to target code) . For better translation it also uses the optimizer that analyses and rewrites the intermediate form. 
+
 # Front end
 Front end contains the scanners , parsers 
-
+![alt text](https://github.com/hridhi/Compiler-design-class-/image/compiler.PNG?raw=true)
 # Main program
 1) The main program read a csv file which contains the token table , charcat table and transition table and stores their values 
 2) Reads the input String and gives the final state 
