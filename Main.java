@@ -7,7 +7,7 @@ public class Main {
 		long startTime = System.nanoTime();
 		//C:\\Users\\HRIDHI SETHI\\Downloads\\test2.csv
 		//C:\\Users\\HRIDHI SETHI\\Downloads\\inputfile.csv
-		Scanner sc = new Scanner(new File("C:\\Users\\HRIDHI SETHI\\Downloads\\inputfile.csv"));
+		Scanner sc = new Scanner(new File("inputfile.csv"));
 		sc.useDelimiter(",");
 		ArrayList<String> arr = new ArrayList<String>();
 		while (sc.hasNext()){  
@@ -33,7 +33,7 @@ public class Main {
 		Trans.PrintCharcat();
 		//"C:\Users\HRIDHI SETHI\Downloads\test2.csv"
 		//C:\\Users\\HRIDHI SETHI\\Downloads\\InStr.csv
-		Scanner scan=new Scanner(new File("C:\\Users\\HRIDHI SETHI\\Downloads\\InStr.csv"));
+		Scanner scan=new Scanner(new File("InStr.csv"));
 		scan.useDelimiter(",");
 		ArrayList<String> a1 = new ArrayList<String>();
 		while (scan.hasNext()){  
