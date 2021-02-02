@@ -12,7 +12,7 @@ Front end contains the scanners , parsers
 # Main program
 ** note : n,m are the size of the transition table
 incase of inputfile n=15,m=12
-incase of testcase file n=5,m=4
+incase of test2 file n=5,m=4
 1) The main program read a csv file which contains the token table , charcat table and transition table and stores their values 
 2) Reads the input String and gives the final state 
 3) Table driven scanner 
