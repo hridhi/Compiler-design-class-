@@ -22,6 +22,8 @@ This has the instances of transition table , charcat table , token table and it 
 # Table driven scanner 
 This is the place where table driven scanner is implemented 
 
+
+![alt text](https://github.com/hridhi/Compiler-design-class-/blob/main/image/tabledrivenscanner.PNG)
 # Direct coded Scanner 
 this file has the code for direct coded scanner implementation whch differes for dfa to dfa 
 
