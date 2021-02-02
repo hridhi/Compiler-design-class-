@@ -6,7 +6,7 @@ Compilers is a compiler program that translates a program in one language into a
 
 # Front end
 Front end contains the scanners , parsers 
-![alt text](https://github.com/hridhi/Compiler-design-class-/image/compiler.PNG?raw=true)
+![alt text](https://github.com/hridhi/Compiler-design-class-/blob/main/image/compiler.PNG)
 # Main program
 1) The main program read a csv file which contains the token table , charcat table and transition table and stores their values 
 2) Reads the input String and gives the final state 
