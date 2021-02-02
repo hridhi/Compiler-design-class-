@@ -25,15 +25,15 @@ This is the place where table driven scanner is implemented
 
 ![alt text](https://github.com/hridhi/Compiler-design-class-/blob/main/image/tabledrivenscanner.PNG)
 # Direct coded Scanner 
-this file has the code for direct coded scanner implementation whch differes for dfa to dfa 
+This file has the code for direct coded scanner implementation whch differes for dfa to dfa 
 
 
 ![alt text](https://github.com/hridhi/Compiler-design-class-/blob/main/image/directcoded.PNG)
 # Maximal munch algorithm 
-this file has the code for the maximal munch algorithm. 
+This file has the code for the maximal munch algorithm. We use 3 variables to keep track of the input that is being accesed and 2 variables to keep track of the states. So, in total of we are using 5 variables in here.  
 
 # inputfile.csv 
-this file contaisn transition table , token table and charcat table as input 
+This file contaisn transition table , token table and charcat table as input 
 
 # InstStr.csv 
-this is a file that has an input string for which final state need to be determined. 
+This is a file that has an input string for which final state need to be determined. 
